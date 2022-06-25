@@ -1,5 +1,6 @@
 # Vending-Machine
-A Capstone 1 Project for Merit America's Java Development Program
+A Capstone 1 Project for Merit America's Java Development Program.
+
 My partner for this project was Awal Bhuyan. We worked according to the "driver/navigator" method, switching roles occasionally.
 We were given the assignment to create a vending machine according to specific parameters. 
 We presented the project to the class. The following is the script we used for our presentation.
