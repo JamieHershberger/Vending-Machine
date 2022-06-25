@@ -6,9 +6,13 @@ We were given the assignment to create a vending machine according to specific p
 We presented the project to the class. The following is the script we used for our presentation.
 
 Cast/Role
+
 Jamie/Herself
+
 Awal/Himself
+
 Part I - Introductions (1 minute)
+
 JAMIE: Thank you for the opportunity to present our program, Vend-O-Matic deluxe, a virtual vending machine that displays items for purchase, accepts a selection and cash amount from the user, tracks inventory, then displays a message and the change amount as it dispenses the selected item.
 
 Our roles in the team were as follows: 
@@ -20,7 +24,9 @@ JAMIE : I’m Jamie and I was the navigator. Our approach was to  tackle the com
 Now I’m going to share my screen and turn the mic over to Awal who will take us through the code. 
 
 Part II - Demonstrating the Code
+
 AWAL: We added 3 Classes to work with VendingMachineCli
+
 Inventory
 Cash
 Item
